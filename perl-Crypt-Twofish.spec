@@ -3,8 +3,8 @@
 %bcond_without	tests	# Do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Crypt
-%define	pnam	Twofish
+%define		pdir	Crypt
+%define		pnam	Twofish
 Summary:	Crypt::Twofish Perl module - the Twofish encryption algorithm
 Summary(pl):	Modu³ Perla Crypt::Twofish - algorytm szyfrowania Twofish
 Name:		perl-Crypt-Twofish
