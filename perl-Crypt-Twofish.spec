@@ -6,7 +6,7 @@
 %define		pdir	Crypt
 %define		pnam	Twofish
 Summary:	Crypt::Twofish Perl module - the Twofish encryption algorithm
-Summary(pl):	Modu≥ Perla Crypt::Twofish - algorytm szyfrowania Twofish
+Summary(pl.UTF-8):   Modu≈Ç Perla Crypt::Twofish - algorytm szyfrowania Twofish
 Name:		perl-Crypt-Twofish
 Version:	2.12
 Release:	3
@@ -25,12 +25,12 @@ length (128, 192, or 256-bit) key, developed by Counterpane Labs. It
 is unpatented and free for all uses, as described at
 <http://www.counterpane.com/twofish.html>.
 
-%description -l pl
-Ten modu≥ jest implementacj± szyfrowania Twofish. Obs≥uguje interfejs
+%description -l pl.UTF-8
+Ten modu≈Ç jest implementacjƒÖ szyfrowania Twofish. Obs≈Çuguje interfejs
 Crypt::CBC. Twofish jest 128-bitowym symetrycznym szyfrem blokowym ze
-zmienn± d≥ugo∂ci± klucza (128, 192 lub 256 bitÛw), opracowanym przez
-Counterpane Labs. Nie jest opatentowany i moøna go swobodnie uøywaÊ
-do dowolnych celÛw, zgodnie z opisem pod adresem
+zmiennƒÖ d≈Çugo≈õciƒÖ klucza (128, 192 lub 256 bit√≥w), opracowanym przez
+Counterpane Labs. Nie jest opatentowany i mo≈ºna go swobodnie u≈ºywaƒá
+do dowolnych cel√≥w, zgodnie z opisem pod adresem
 <http://www.counterpane.com/twofish.html>.
 
 %prep
