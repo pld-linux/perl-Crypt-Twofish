@@ -6,7 +6,7 @@
 %define		pdir	Crypt
 %define		pnam	Twofish
 Summary:	Crypt::Twofish Perl module - the Twofish encryption algorithm
-Summary(pl.UTF-8):   Moduł Perla Crypt::Twofish - algorytm szyfrowania Twofish
+Summary(pl.UTF-8):	Moduł Perla Crypt::Twofish - algorytm szyfrowania Twofish
 Name:		perl-Crypt-Twofish
 Version:	2.12
 Release:	3
