@@ -1,0 +1,11 @@
+--- Crypt-Twofish-2.14/tab/tables.pl~	2001-05-21 19:38:02.000000000 +0200
++++ Crypt-Twofish-2.14/tab/tables.pl	2017-06-22 22:44:07.532561872 +0200
+@@ -3,7 +3,7 @@
+ # Copyright 2001 Abhijit Menon-Sen <ams@wiw.org>
+ 
+ use strict;
+-require 'tab/misc.pl';
++require './tab/misc.pl';
+ 
+ my ($qtab, $mtab) = ([], []);
+ 
