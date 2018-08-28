@@ -8,12 +8,12 @@
 Summary:	Crypt::Twofish Perl module - the Twofish encryption algorithm
 Summary(pl.UTF-8):	Moduł Perla Crypt::Twofish - algorytm szyfrowania Twofish
 Name:		perl-Crypt-Twofish
-Version:	2.14
-Release:	10
+Version:	2.17
+Release:	1
 License:	Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Crypt/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	295c059d18f9a46dd14bd765fc465318
+# Source0-md5:	bb6e7ec9ff6db6aea27dce7175a852e2
 Patch0:		no-dot-in-inc.patch
 URL:		http://search.cpan.org/dist/Crypt-Twofish/
 BuildRequires:	perl-devel >= 1:5.8.0
